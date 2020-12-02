@@ -1,0 +1,112 @@
+body{
+    background-color: black;
+   }
+   .nav{
+     display: flex;
+     color: white;
+     flex-grow: 2;
+     justify-content: flex-end;
+     font-family: poppins;
+   }
+   .image{
+     margin-left: 15px;
+     margin-right: 15px;
+   }
+   .gh{
+     position: relative;
+     top: -60px;
+   }
+   .gg{
+     display: flex;
+     justify-content: center;
+   }
+   .google{
+     display: flex;
+     flex-direction: row;
+     width: 300px;
+     justify-content: center;
+   }
+   .google h1{
+     font-family: poppins;
+     font-size: 70px;
+     margin: 100px auto
+   }
+   #search{
+     display: flex;
+     padding: 0.5%;
+     margin: -50px auto;
+     height: 20px;
+     width: 400px;
+     border-radius: 22px;
+     border-width: 6px;
+     border-style: solid;
+     border-color: white;
+   }
+   .g1{
+     color: blue;
+   }
+   .g2{
+     color: blue;
+   }
+   .o1{
+     color: red;
+   }
+   .o2{
+     color: yellow;
+   }
+   .l1{
+     color: green;
+   }
+   .e1{
+     color: red;
+   }
+   .hhh{
+     display: flex;
+     margin: 0px 120px auto;
+   }
+   .holders{
+     display: flex;
+     flex-direction: row;
+     width: 300px;
+     
+   }
+   .holder1{
+     margin: 60px auto;
+   }
+   .holder2{
+     margin: 60px auto;
+   }
+   .holder3{
+     margin: 60px auto;
+   }
+   .tag{
+     width: 50px;
+     height: 50px;
+     margin: 60px auto;
+     border-style: solid;
+     border-radius: 4%;
+   }
+   #t1{
+     background-color: green;
+     border-color: green;
+   }
+   #t2{
+     background-color: yellow;
+     border-color: yellow;
+   }
+   #t3{
+     background-color: blue;
+     border-color: blue;
+   }
+   #t4{
+     background-color: red;
+     border-color: red;
+   }
+   #t5{
+     background-color: orange;
+     border-color: orange;
+   }
+   #t6{
+     background-color: purple;
+     border-color: purple;
+   }
